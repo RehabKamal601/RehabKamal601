@@ -79,36 +79,16 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RehabKamal601&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehabKamal601&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RehabKamal601&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wwwrehabkamal601@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RehabKamal601)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-📍 **Location:** Egypt  
-💬 **Ask me about:** Frontend Development, React, Vue.js, JavaScript  
-⚡ **Fun fact:** I love turning coffee into code! ☕️
-
-</div>
+- 📧 Email: [wwwrehabkamal601@gmail.com](mailto:wwwrehabkamal601@gmail.com)  
+- 🔗 GitHub: [@RehabKamal601](https://github.com/RehabKamal601)  
+- 📍 Location: Egypt
 
 ---
 
