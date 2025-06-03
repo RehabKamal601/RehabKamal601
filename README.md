@@ -1,55 +1,64 @@
-<h1 align="center">✨ Hi there, I'm Rehab Kamal 👩‍💻</h1>
-<h3 align="center">🚀 Front-End Developer | Full Stack Enthusiast | Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Rehab Kamal</h1>
+<h3 align="center">💻 Front-End Developer | Software Engineer | Passionate about crafting clean & dynamic user experiences</h3>
+
+---
+
+🌟 Detail-oriented developer with a strong foundation in **software engineering**  
+🎓 Graduate of **Faculty of Computers and Information – Class of 2020**  
+🚀 Currently training at **ITI – Open Source Track** (Oct 2024 – June 2025)  
+🔁 Always evolving through real-world projects and collaborative teamwork  
+📍 Based in Egypt
+
+---
+
+## 🚀 Tech Stack
+
+### 💡 Front-End
+`HTML5` • `CSS3` • `Bootstrap` • `TailwindCSS` • `JavaScript` • `TypeScript`  
+`Vue.js` • `React.js` • `Next.js` • `Angular`
+
+### 🔧 Back-End
+`Python` • `Django` • `PHP` • `Laravel` • `Node.js` • `Express.js`
+
+### 🗄️ Databases
+`MySQL` • `PostgreSQL` • `MongoDB`
+
+### 🧰 Tools & Concepts
+`Git` • `GitHub` • `Postman` • `VS Code` • `Figma` • `Agile` • `REST APIs`
+
+---
+
+## 📂 Featured Projects
+
+- 🩺 **Medical Dashboard** (React + Django)  
+  Role-based system (Admin / Doctor / Patient) with JWT Auth, appointments, and notes
+
+- 💼 **Job Board App** (Vue + Pinia)  
+  Advanced job filtering, application tracking, and user notifications
+
+- 🛍️ **E-commerce Platform** (Angular)  
+  Products listing, cart, checkout, product details, and routing
+
+- 📝 **Blog System** (Laravel)  
+  Auth, role-based access, image upload, CRUD, and comments management
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Crafting+clean+%26+scalable+code;Turning+ideas+into+real+web+apps;Let%27s+build+something+great+together" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RehabKamal601&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehabKamal601&theme=tokyonight" />
 </p>
 
 ---
 
-### 💡 About Me
-- 🎓 Software Engineering Graduate | Class of 2020  
-- 🌐 Passionate about building dynamic, user-centric web applications  
-- 🔁 Always learning new technologies & best practices  
-- 🤝 Open to collaboration and freelance opportunities  
+## 📬 Contact Me
+
+- 📧 Email: [wwwrehabkamal601@gmail.com](mailto:wwwrehabkamal601@gmail.com)  
+- 🔗 GitHub: [@RehabKamal601](https://github.com/RehabKamal601)  
+- 📍 Location: Egypt
 
 ---
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap,nodejs,django,laravel,python,git,github,mysql,postgres" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🏥 **Medical Dashboard** | React + Django | Multi-role system (Admin, Doctor, Patient) with JWT authentication, appointment scheduling, and dashboards |
-| 🧑‍💼 **Job Board Platform** | Vue + Pinia | Job listing, filtering, search, application management with professional UI |
-| 🛒 **E-commerce App** | Angular | Product grid, dynamic detail pages, cart management, and routing |
-| 📰 **Laravel Blog CMS** | Laravel + Blade | Full blog platform with image upload, user roles, CRUD & authentication |
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RehabKamal601&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehabKamal601&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📬 Let's Connect
-- 📧 Email: **wwwrehabkamal601@gmail.com**
-- 💼 LinkedIn: [Rehab Kamal](https://www.linkedin.com/in/rehabkamal601/)
-- 💻 GitHub: [@RehabKamal601](https://github.com/RehabKamal601)
-
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
----
-
-<p align="center">⭐ Thank you for visiting my profile! ⭐</p>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
