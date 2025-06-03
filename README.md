@@ -2,7 +2,7 @@
   
 # Hi there! 👋 I'm Rehab Kamal
 
-### 💻 Front-End Developer | Software Engineer
+### 💻 Full-Stack Developer | Software Engineer
 ### 🎨 Passionate about crafting clean & dynamic user experiences
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-End+Developer;Software+Engineer;Always+learning+new+things" alt="Typing SVG" />
@@ -63,18 +63,19 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
-<div align="center">
+- 🩺 **Medical Dashboard** (React + Django)  
+  Role-based system (Admin / Doctor / Patient) with JWT Auth, appointments, and notes
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🩺 **Medical Dashboard** | Role-based system (Admin/Doctor/Patient) with JWT Auth, appointments, and notes | React + Django |
-| 💼 **Job Board App** | Advanced job filtering, application tracking, and user notifications | Vue + Pinia |
-| 🛍️ **E-commerce Platform** | Products listing, cart, checkout, product details, and routing | Angular |
-| 📝 **Blog System** | Auth, role-based access, image upload, CRUD, and comments management | Laravel |
+- 💼 **Job Board App** (Vue + Pinia)  
+  Advanced job filtering, application tracking, and user notifications
 
-</div>
+- 🛍️ **E-commerce Platform** (Angular)  
+  Products listing, cart, checkout, product details, and routing
+
+- 📝 **Blog System** (Laravel)  
+  Auth, role-based access, image upload, CRUD, and comments management
 
 ---
 
