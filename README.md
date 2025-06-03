@@ -87,7 +87,8 @@
 
 
 - 📧 Email: [wwwrehabkamal601@gmail.com](mailto:wwwrehabkamal601@gmail.com)  
-- 🔗 GitHub: [@RehabKamal601](https://github.com/RehabKamal601)  
+- 🔗 GitHub: [@RehabKamal601](https://github.com/RehabKamal601)
+- 🔗linkedin:[@RehabKamal601](https://www.linkedin.com/in/rehab-kamal-7574801b4/)
 - 📍 Location: Egypt
 
 ---
